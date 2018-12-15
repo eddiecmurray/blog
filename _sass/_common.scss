@@ -11,7 +11,7 @@ body {
 
 a {
     color: $link-color;
-    text-decoration: none;
+    text-decoration: underline;
     &:hover {
         opacity: .8;
         text-decoration: underline;
