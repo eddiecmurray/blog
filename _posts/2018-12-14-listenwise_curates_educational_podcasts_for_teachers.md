@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listenwise Curates Educational Podcasts for Teachers
-tags: ela social_studies science podcasts
+tags: ela social_studies science podcasts listenwise
 eye_catch: https://eddiecmurray.github.io/blog/assets/img/2018-12-14_15-55-45.png
 ---
 
