@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Images for Presentations and Projects with AutoDraw
-tags:
+tags: google
 eye_catch: https://www.androidpolice.com/wp-content/uploads/2017/04/nexus2cee_Screenshot-2017-04-12-at-00.09.38.png
 ---
 
