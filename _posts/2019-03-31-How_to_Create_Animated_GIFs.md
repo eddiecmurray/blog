@@ -2,7 +2,7 @@
 layout: post
 title: How to Create Animated GIFs
 tags: professional_development
-eye_catch: assets\img\pixel-3683374_640.png
+eye_catch: https://eddiecmurray.github.io/blog/assets/img/pixel-3683374_640.png
 ---
 
 As the educational technology specialist in my district, I move between buildings and I'm not always present to help a teacher when they have a question.  Sometimes those questions have quick solutions but it is hard to describe with a written response in an email.  In those situations, I will embed an animated GIF in my email to demonstrate how to solve the problem.
