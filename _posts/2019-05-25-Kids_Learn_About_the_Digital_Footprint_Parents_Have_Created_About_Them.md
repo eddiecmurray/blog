@@ -5,6 +5,8 @@ tags: digital_citizenship
 eye_catch: https://eddiecmurray.github.io/blog/assets/img/accounts-blur-button-267350.jpg
 ---
 
+**_Orginally posted 5/13/2019_**
+
 [Taylor Lorenz](https://www.theatlantic.com/author/taylor-lorenz/) at [The Atlantic](https://www.theatlantic.com/) writes about how tweens start to learn about the digital footprint their parents have created for them when they post images on social media.
 
 <!--more-->
