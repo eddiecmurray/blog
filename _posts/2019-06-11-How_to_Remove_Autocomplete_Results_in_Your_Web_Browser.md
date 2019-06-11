@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Remove Autocomplete Results in Your Web Browser"
-tags: google digital_citizenship
+tags: chrome firefox safari microsoft_edge soft_skills
 eye_catch: https://eddiecmurray.github.io/blog/assets/img/answer-career-close-up-221164.jpg
 ---
 
