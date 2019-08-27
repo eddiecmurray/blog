@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embed Professional Development Model"
+title: "The Embedded Professional Development Model"
 tags: professional_development
 eye_catch: https://eddiecmurray.github.io/blog/assets/img/education-1580143_1920.jpg
 ---
