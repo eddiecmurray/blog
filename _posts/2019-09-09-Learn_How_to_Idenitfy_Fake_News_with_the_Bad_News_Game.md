@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learn How to Idenitfy Fake News with the Bad News Game"
+title: "Learn How to Identify Fake News with the Bad News Game"
 tags: digital_citizenship
 eye_catch: https://eddiecmurray.github.io/blog/assets/img/accounts-blur-button-267350.jpg
 ---
