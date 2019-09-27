@@ -2,7 +2,7 @@
 layout: post
 title: Use EdPuzzle During Whole Class Instruction
 tags: edpuzzle video
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/2018-12-19_13-23-29.png
+eye_catch: /blog/assets/img/2018-12-19_13-23-29.png
 ---
 
 [EdPuzzle](https://edpuzzle.com/) is a great tool to embed assessment questions into videos.  The ability to sync classes from Google Classroom also makes it easy for students to sign in and complete assignments.  This week a teacher asked how to use EdPuzzle to structure whole class discussion without having to select or submit a response to a question.  So let's look at how to use the comments feature to facilitate questions during whole class discussion.

@@ -2,7 +2,7 @@
 layout: post
 title: Solvemoji is a Great Math Puzzle Game
 tags: math ice_breaker
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/Puzzle_20309_Question.png
+eye_catch: /blog/assets/img/Puzzle_20309_Question.png
 ---
 
 Looking for a fun Do Now activity at the beginning of your class?  [Solvemoji](https://solvemoji.com/) is a math puzzle game that replaces the numbers in a math problem emojis.  
