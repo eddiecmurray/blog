@@ -2,7 +2,7 @@
 layout: post
 title: "Students Using Google Docs for Private Chat Rooms"
 tags: google digital_citizenship
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/19527419490_29006e2aed_z.jpg
+eye_catch: /blog/assets/img/19527419490_29006e2aed_z.jpg
 ---
 
 Google Drive is one of the most popular digital tools that educators use.  Many K-12 schools use Google’s suite of tools as well as colleges and universities.  [Michelle Woo](https://twitter.com/michellewoo) at [Lifehacker](https://t.co/71afErrzT2?amp=1) discussed how students are [using Google Docs as a chat room to cyberbully each other](https://offspring.lifehacker.com/how-kids-are-using-google-docs-to-bully-each-other-1833151374).

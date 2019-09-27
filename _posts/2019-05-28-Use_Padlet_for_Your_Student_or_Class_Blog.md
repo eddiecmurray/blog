@@ -2,7 +2,7 @@
 layout: post
 title: "Use Padlet for Your Student or Class Blog"
 tags: blogging padlet
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/alphabet-arts-and-crafts-blog-459688.jpg
+eye_catch: /blog/assets/img/alphabet-arts-and-crafts-blog-459688.jpg
 ---
 
 There are many student blogging tools for teachers to use but the setup process for some of these tools can be intimidating.  [Nathan Hall](http://twitter.com/nathanghall) talks about how teachers should consider using [Padlet](https://padlet.com/) as a class or student blogging tool.

@@ -2,7 +2,7 @@
 layout: post
 title: "Video Resources About Differentiated Instruction"
 tags: differentiated_instruction
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/children-class-classroom-1720186.jpg
+eye_catch: /blog/assets/img/children-class-classroom-1720186.jpg
 ---
 Differentiated instruction involves adapting and modifying lessons to meet the needs of your students.  Sometimes teachers get overwhelmed thinking about how time consuming it can be to differentiate instruction in their lessons. [Ed Week](http://blogs.edweek.org/teachers/teaching_now/2019/02/how_to_differentiate_instruction_without_losing_your_mind.html) has released several videos explaining how to differentiate the content, process, and product for lessons.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Customize the View of Sharable Google Drive Files"
 tags: google
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/19527419490_29006e2aed_z.jpg
+eye_catch: /blog/assets/img/19527419490_29006e2aed_z.jpg
 ---
 
 One of the most important tools in my workflow is Google Drive.  With Google Drive it is easy to collaborate and share resources with educators.  One of my favorite tricks with Google Drive is modifying the URL to customize how the file is viewed.

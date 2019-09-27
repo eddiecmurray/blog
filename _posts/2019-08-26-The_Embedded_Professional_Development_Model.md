@@ -2,7 +2,7 @@
 layout: post
 title: "The Embedded Professional Development Model"
 tags: professional_development
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/education-1580143_1920.jpg
+eye_catch: /blog/assets/img/education-1580143_1920.jpg
 ---
 
 As the educational technology specialist in my district I work with teachers to help support the use of technology in the classroom.  This may involve aiding teachers with instructional planning, modeling the use of technology, or co-teaching to support the technology.  I’m always looking for new ways to expose more teachers to how others in their school are using technology and Holly Clark offers some suggestions from her work as a technology consultant.

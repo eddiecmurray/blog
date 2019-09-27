@@ -2,7 +2,7 @@
 layout: post
 title: "Facing History Has a Great Library of Instructional Strategies"
 tags: instructional_strategies social_studies
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/volunteer-2055010_1280.png
+eye_catch: /blog/assets/img/volunteer-2055010_1280.png
 ---
 
 When I plan lessons or professional development workshops I try to incorporate instructional strategies to engage students and teachers in the content.  I’ve talked before about how helpful the [instructional strategies are on the K20 Learn website](https://www.eddiecmurray.com/blog/2019/01/10/Looking_for_New_Student_Engagement_Strategies_Checkout_K20_Learn/).  Another website that includes great resources to engage students is [Facing History](https://www.facinghistory.org/).

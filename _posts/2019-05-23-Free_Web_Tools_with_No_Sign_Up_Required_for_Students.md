@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Free Web Tools with No Sign Up Required for Students
-tags: web_tools 
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/black-black-and-white-close-up-1496139.jpg
+tags: web_tools
+eye_catch: /blog/assets/img/black-black-and-white-close-up-1496139.jpg
 ---
 
 Sometimes you need a tool for a specific lesson or activity that you aren’t likely to use that often.  The time it takes for students to sign up and then remember the username/password for the few times you need it creates a barrier for using that tool.  In these situations it is easier to use tools that do not require students to create an account.

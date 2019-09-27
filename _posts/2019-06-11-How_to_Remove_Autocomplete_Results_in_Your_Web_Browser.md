@@ -2,7 +2,7 @@
 layout: post
 title: "How to Remove Autocomplete Results in Your Web Browser"
 tags: chrome firefox safari microsoft_edge soft_skills
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/answer-career-close-up-221164.jpg
+eye_catch: /blog/assets/img/answer-career-close-up-221164.jpg
 ---
 
 Have you ever typed too quickly or thought you hit TAB on your keyboard to then look up and see your username and password in the same dialogue box?  Now every time you try to login you see your username followed by the password in the autocomplete results of your web browser.  Lifehacker has created a useful set of instructions on [how to delete these autocomplete results from the web browser](https://lifehacker.com/how-to-delete-annoying-autofill-entries-in-your-browser-1828635913/amp).

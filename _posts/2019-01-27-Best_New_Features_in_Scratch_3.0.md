@@ -2,7 +2,7 @@
 layout: post
 title: Best New Features in Scratch 3.0
 tags: scratch
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/scratch3.png
+eye_catch: /blog/assets/img/scratch3.png
 ---
 
 With the New Year came a new version of Scratch.  If you aren't familiar, Scratch is a web-based coding platform that is developed by MIT.  It is a great way for students to get familiar with computer coding and computational thinking. With the new version of Scratch, MIT has added some additional functionality and made the web-based drag and drop editor much easier to use.  Here are some of the best new features available in Scratch.
@@ -39,6 +39,6 @@ Students love incorporating sounds in their Scratch project.  To help students a
 
 ![alt text](https://eddiecmurray.github.io/blog/assets/img/scratch_extensions.png "scratch extensions")
 
-Scratch continues to grow in popularity each year and many companies have used the block-based programming language for their own platforms.  Companies now have the option to integrate directly with Scratch by developing an extension.  There are about 10 extensions currently in Scratch including text-to-speech tools, integration with micobit and makey makey, and text translation.  If you are interested in developing your own Scratch extension you can find more information on ScratchX. 
+Scratch continues to grow in popularity each year and many companies have used the block-based programming language for their own platforms.  Companies now have the option to integrate directly with Scratch by developing an extension.  There are about 10 extensions currently in Scratch including text-to-speech tools, integration with micobit and makey makey, and text translation.  If you are interested in developing your own Scratch extension you can find more information on ScratchX.
 
 Scratch is a great way for students to become familiar with coding concepts and create fun interactive projects.  The new features in Scratch 3.0 make the platform more stable, accessible on mobile devices, and allow more creative projects.

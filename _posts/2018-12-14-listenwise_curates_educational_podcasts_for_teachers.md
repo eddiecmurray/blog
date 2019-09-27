@@ -2,7 +2,7 @@
 layout: post
 title: Listenwise Curates Educational Podcasts for Teachers
 tags: ela social_studies science podcasts listenwise
-eye_catch: blog/assets/img/2018-12-14_15-55-45.png
+eye_catch: /blog/assets/img/2018-12-14_15-55-45.png
 ---
 
 Podcasts have exploded in popularity ever since [Serial released its first season](https://serialpodcast.org/season-one) in 2014.  Since then many publishers have released podcasts which can be used to support classroom instruction.  

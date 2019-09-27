@@ -2,7 +2,7 @@
 layout: post
 title: "Podcast Lesson Plans from NPR's Hidden Brain Podcast"
 tags: podcasts
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/audio-device-macro-55800.jpg
+eye_catch: /blog/assets/img/audio-device-macro-55800.jpg
 ---
 
 [As I have discussed](https://www.eddiecmurray.com/blog/2018/12/14/listenwise_curates_educational_podcasts_for_teachers/), the use of podcasts in the classroom has continued to rise in popularity during the past few years.  Many podcasts offer a transcript which allows students to read along as they listen.  [NPR’s Hidden Brain podcast](https://www.npr.org/series/423302056/hidden-brain) includes many episodes that teachers can use in their classroom and they have now started to [provide study guides for some of their episodes](https://www.npr.org/2017/03/27/518822674/hidden-brain-study-guides-beta).

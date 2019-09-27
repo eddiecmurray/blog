@@ -2,7 +2,7 @@
 layout: post
 title: "It is Important to Define Your Role as an Instructional Coach"
 tags: instructional_coach
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/board-784363_1920.jpg
+eye_catch: /blog/assets/img/board-784363_1920.jpg
 ---
 
 During my first year as an educational technology specialist I found myself constantly clarifying what my role was to administrators and teachers.  Some teachers thought I was an administrator who was there to evaluate them, while others thought I was a technician who could fix their computer or printer.  It is important to clarify your role as an instructional coach to ensure teachers are able to utilize your skills.

@@ -2,7 +2,7 @@
 layout: post
 title: "Create a Backchannel with YoTeach"
 tags: professional_development web_tools
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/personal-260579_1280.jpg
+eye_catch: /blog/assets/img/personal-260579_1280.jpg
 ---
 
 There are many reasons backchannels are a great tool during large workshops.  It is difficult to answer every participants question during workshops.  Sometimes participants have a question I want to answer but it doesn’t relate to what we are discussing in the workshop.  Also, backchannels make it easy to for presenters and participants to quickly share resources.  In these, and many other situations, it is helpful to use a backchannel to organize these questions, comments, or resources.

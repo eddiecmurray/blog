@@ -2,7 +2,7 @@
 layout: post
 title: "How to Right Click on a Laptop Trackpad"
 tags: chromebook macbook laptop soft_skills
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/5156539634_48d04778cb_z.jpg
+eye_catch: /blog/assets/img/5156539634_48d04778cb_z.jpg
 ---
 
 I’ve always preferred using laptops in the classroom instead of having desktops or using a computer lab with desktops.  The laptops allow more flexibility with creating small groups and adapting the classroom for different types of activities.  One of the issues with laptops is right clicking on the trackpad.  Here is how students (and teachers) can easily right click on a laptop trackpad.

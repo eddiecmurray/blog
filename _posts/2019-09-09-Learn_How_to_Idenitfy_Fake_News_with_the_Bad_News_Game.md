@@ -2,7 +2,7 @@
 layout: post
 title: "Learn How to Identify Fake News with the Bad News Game"
 tags: digital_citizenship
-eye_catch: https://eddiecmurray.github.io/blog/assets/img/accounts-blur-button-267350.jpg
+eye_catch: /blog/assets/img/accounts-blur-button-267350.jpg
 ---
 
 There are lots of great resources to teach kids of all ages about digital citizenship including free lessons from [BrainPop](https://www.brainpop.com/digitalcitizenship/), [Common Sense Media](https://www.commonsense.org/education/digital-citizenship), and [Google](https://beinternetawesome.withgoogle.com/en_us).  An important aspect of digital citizenship is being able to identify biased or false information.  [Bad News](https://getbadnews.com/droggame_book/junior-uk/#intro) is a new web-based game to help students learn about and develop strategies for identifying fake news.
