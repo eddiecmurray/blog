@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "[Update: The Atlantic created a video about the article] Kids Learn About the Digital Footprint Parents Have Created About Them"
+title: "Kids Learn About the Digital Footprint Parents Have Created About Them"
 tags: digital_citizenship
-eye_catch: /blog/assets/img/accounts-blur-button-267350.jpg
+eye_catch: /assets/img/accounts-blur-button-267350.jpg
+redirect_to: /2019/05/25/Kids_Learn_About_the_Digital_Footprint_Parents_Have_Created_About_Them/
 ---
 
 **_Orginally posted 5/13/2019_**

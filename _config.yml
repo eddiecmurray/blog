@@ -86,10 +86,11 @@ ogp:
 #
 # Plugins.
 #
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 #
 # Styles: see "_sass/base/_variables.scss"
