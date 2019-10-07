@@ -17,4 +17,4 @@ If you don’t use Chrome, Lifehacker included directions on how to remove the a
 
 **Source:** [Lifehacker](https://lifehacker.com/how-to-delete-annoying-autofill-entries-in-your-browser-1828635913/amp)
 
-**Photo:** [Pexels](https://www.pexels.com/photo/black-and-white-business-career-close-up-221164/)
+**Photo:** [Pixabay / Pexels](https://www.pexels.com/photo/black-and-white-business-career-close-up-221164/)

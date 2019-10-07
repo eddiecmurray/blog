@@ -15,4 +15,4 @@ Two of the strategies that I have used include Create a Headline and Dissecting 
 
 These instructional strategies are a great way to hold students accountable for the learning activities in your classroom and provide students with tools to explore curriculum content.
 
-**Photo:** [Pixabay](https://pixabay.com/illustrations/volunteer-hands-help-colors-2055010/)
+**Photo:** [Tumisu / Pixabay](https://pixabay.com/illustrations/volunteer-hands-help-colors-2055010/)

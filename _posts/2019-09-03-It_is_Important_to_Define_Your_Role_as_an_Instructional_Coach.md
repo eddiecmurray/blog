@@ -25,4 +25,4 @@ These strategies will help to properly define your role as an instructional coac
 
 **Source:** [TeachBoost The Launchpad](https://blog.teachboost.com/how-to-introduce-yourself-as-a-coach)
 
-**Photo:** [Pixabay](https://pixabay.com/illustrations/board-training-coach-learn-784363/)
+**Photo:** [geralt / Pixabay](https://pixabay.com/illustrations/board-training-coach-learn-784363/)

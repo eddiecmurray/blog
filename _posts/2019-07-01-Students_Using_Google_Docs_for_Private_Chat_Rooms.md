@@ -19,4 +19,4 @@ It is difficult or impossible to constantly monitor student usage of technology 
 
 **Source:** [Lifehacker](https://offspring.lifehacker.com/how-kids-are-using-google-docs-to-bully-each-other-1833151374)
 
-**Photo:** [Flickr](https://www.flickr.com/photos/50145412@N04/19527419490)
+**Photo:** [blunkswife / Flickr](https://www.flickr.com/photos/50145412@N04/19527419490)

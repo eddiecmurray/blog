@@ -15,4 +15,4 @@ The study guides include guiding questions teachers can use as students listen t
 
 **Source:** [Larry Ferlazzo](https://larryferlazzo.edublogs.org/2019/05/10/nprs-hidden-brain-podcasts-now-provides-lesson-plans-for-many-of-its-shows/); [NPR](https://www.npr.org/2017/03/27/518822674/hidden-brain-study-guides-beta)
 
-**Photo:** [Pexels](https://www.pexels.com/photo/black-recordering-microphone-55
+**Photo:** [Pexels](https://www.pexels.com/photo/black-recordering-microphone-55)

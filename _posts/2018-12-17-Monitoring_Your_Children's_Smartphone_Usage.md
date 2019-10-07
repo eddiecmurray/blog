@@ -15,4 +15,4 @@ To helps parents manage and monitor their children's smartphone usage [The Wirec
 
 **Source:** [The Wirecutter](https://thewirecutter.com/reviews/best-apps-to-manage-your-kids-phone/)
 
-**Photo:** [Pixabay](https://pixabay.com/en/mobile-security-privacy-protected-3469818/)
+**Photo:** [kreatikar / Pixabay](https://pixabay.com/en/mobile-security-privacy-protected-3469818/)

@@ -17,4 +17,4 @@ While laptops do offer flexibility in the classroom students may have difficulty
 
 **Source:** [How-To Geek](https://www.flickr.com/photos/78137955@N00/5156539634)
 
-**Photo:** [Flickr](https://www.flickr.com/photos/78137955@N00/5156539634)
+**Photo:** [Tom Carmony / Flickr](https://www.flickr.com/photos/78137955@N00/5156539634)

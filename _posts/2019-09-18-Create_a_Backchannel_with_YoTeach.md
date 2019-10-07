@@ -15,4 +15,4 @@ With YoTeach participants can join the public or private chat room using a link,
 
 For classes or groups that meet regularly learning management systems like Google Classroom or community tools like Slack or Microsoft Meet are better solutions; but when you need a one time tool to share information with a group YoTeach is a great solution.
 
-**Picture:** [Pixabay](https://pixabay.com/illustrations/personal-person-group-laptop-260579/)
+**Picture:** [geralt / Pixabay](https://pixabay.com/illustrations/personal-person-group-laptop-260579/)

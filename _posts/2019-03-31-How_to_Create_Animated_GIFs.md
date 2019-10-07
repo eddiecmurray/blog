@@ -23,4 +23,4 @@ To convert the video to an animated GIF you can use the website [EZGIF](https://
 
 Animated GIFs are a great way to demonstrate how to complete short tasks.  They are easy to embed in an email to quickly answer questions when you can't show someone in person.
 
-**Photo:** [Pixabay](https://pixabay.com/vectors/pixel-tutorial-coach-pixel-cells-3683374/)
+**Photo:** [manfredsteger / Pixabay](https://pixabay.com/vectors/pixel-tutorial-coach-pixel-cells-3683374/)

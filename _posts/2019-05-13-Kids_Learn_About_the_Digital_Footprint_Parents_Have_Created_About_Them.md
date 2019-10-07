@@ -28,4 +28,4 @@ The Atlantic created a YouTube video about their article.  You can view the YouT
 
 **Source:** [The Atlantic](https://www.theatlantic.com/technology/archive/2019/02/when-kids-realize-their-whole-life-already-online/582916/); [YouTube](https://youtu.be/dpirtXdzkII)
 
-**Photo:** [Pexels](https://www.pexels.com/photo/apps-blur-button-close-up-267350/)
+**Photo:** [Pixabay / Pexels](https://www.pexels.com/photo/apps-blur-button-close-up-267350/)

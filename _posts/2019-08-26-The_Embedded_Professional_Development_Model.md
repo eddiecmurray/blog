@@ -23,4 +23,4 @@ This is a great method for exposing more teachers to educational technology tool
 
 **Source:** [A PD Model That Actually Works](http://www.hollyclark.org/2019/06/06/a-pd-model-that-actually-works/)
 
-**Photo:** [Pixabay](https://pixabay.com/illustrations/education-hand-write-skills-can-1580143/)
+**Photo:** [geralt / Pixabay](https://pixabay.com/illustrations/education-hand-write-skills-can-1580143/)

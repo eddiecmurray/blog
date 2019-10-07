@@ -15,4 +15,4 @@ Padlet is a great option for teachers looking for a dead simple blogging tool.  
 
 **Source:**  [Nathan Hall](https://nathanghall.wordpress.com/2018/03/26/student-blogging-with-padlet/)
 
-**Photo:** [Pexels](https://www.pexels.com/photo/alphabet-arts-and-crafts-blog-conceptual-459688/)
+**Photo:** [Pixabay / Pexels](https://www.pexels.com/photo/alphabet-arts-and-crafts-blog-conceptual-459688/)

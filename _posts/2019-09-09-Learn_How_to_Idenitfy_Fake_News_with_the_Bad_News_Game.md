@@ -15,4 +15,4 @@ Identifying reliable sources and determining if a source is biased is an importa
 
 **Source:** [Identify Fake News With the 'Bad News' Web Game](https://vitals.lifehacker.com/identify-fake-news-with-the-bad-news-web-game-1835916627)
 
-**Picture:** [Pexels](https://www.pexels.com/photo/apps-blur-button-close-up-267350/)
+**Picture:** [Pixabay / Pexels](https://www.pexels.com/photo/apps-blur-button-close-up-267350/)

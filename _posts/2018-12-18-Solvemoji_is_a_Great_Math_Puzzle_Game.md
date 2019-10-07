@@ -16,4 +16,5 @@ Ozge Karaoglu at [Tech & Learning](https://www.techlearning.com/features/solvemo
 Creating an account on the Solvemoji website is not required and will allow students to earn points for successfully solving the problems which can be tracked on the Solvemoji leaderboard.  
 
 **Source:** [Tech & Learning](https://www.techlearning.com/features/solvemoji)
+
 **Photo:** [Solvemoji](https://solvemojilive.blob.core.windows.net/solvemoji/7/03-Dec-2018/Puzzle_20596_Question.png?sv=2015-12-11&sr=b&sig=e2ulMNe2WUWsPs2CtCZG7n6bMs6Pf6695C3M%2BPflJeE%3D&se=2118-12-03T21%3A51%3A36Z&sp=r)

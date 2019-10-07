@@ -15,4 +15,4 @@ Undo send is a great feature to enable to give yourself that extra time to make 
 
 **Source:** [How-To Geek](https://www.howtogeek.com/423308/you-can-undo-send-in-outlook-just-like-gmail/)
 
-**Photo:** [Pexels](https://www.pexels.com/photo/business-communication-computer-connection-261706/)
+**Photo:** [Pixabay / Pexels](https://www.pexels.com/photo/business-communication-computer-connection-261706/)

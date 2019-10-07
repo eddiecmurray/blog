@@ -23,4 +23,4 @@ These are great tricks to use when sharing Google Drive files during classroom l
 
 **Source:** [Learning In Hand](https://learninginhand.com/blog/google-document-url-tricks)
 
-**Photo:** [Flickr](https://www.flickr.com/photos/50145412@N04/19527419490)
+**Photo:** [blunkswife / Flickr](https://www.flickr.com/photos/50145412@N04/19527419490)

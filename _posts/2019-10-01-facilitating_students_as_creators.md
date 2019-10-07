@@ -19,4 +19,4 @@ While diagnostic tools are powerful because they provide students with personali
 
 **Source:** [Catlin Tucker](https://catlintucker.com/2019/06/shifting-from-consumption-to-creation/)
 
-**Picture:** [Pixabay](https://pixabay.com/illustrations/the-computer-boy-do-the-job-clipart-2841685/)
+**Picture:** [Kidaha / Pixabay](https://pixabay.com/illustrations/the-computer-boy-do-the-job-clipart-2841685/)

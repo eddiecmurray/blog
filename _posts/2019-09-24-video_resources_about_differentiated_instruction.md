@@ -22,4 +22,4 @@ These videos offer great tips and strategies to help teachers differentiate inst
 
 **Source:** [Larry Ferlazo’s Websites of the Day](http://larryferlazzo.edublogs.org/2019/07/02/a-look-back-our-three-video-series-on-differentiation-including-two-new-ones/)
 
-**Picture:** [Pexels](https://www.pexels.com/photo/two-girls-doing-school-works-1720186/)
+**Picture:** [Pragyan Bezbaruah / Pexels](https://www.pexels.com/photo/two-girls-doing-school-works-1720186/)
