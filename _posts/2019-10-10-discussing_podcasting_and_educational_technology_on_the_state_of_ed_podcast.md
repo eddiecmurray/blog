@@ -9,7 +9,7 @@ This past weekend I attended [Ed Camp Long Island](https://edcampli.weebly.com/)
 
 <!--more-->
 
-<iframe src="[//html5-player.libsyn.com/embed/episode/id/11579534/height/360/theme/standard/thumbnail/yes/direction/backward/](http://html5-player.libsyn.com/embed/episode/id/11579534/height/360/theme/standard/thumbnail/yes/direction/backward/)" allowfullscreen="" width="100%" height="360"></iframe>
+<iframe src="//html5-player.libsyn.com/embed/episode/id/11579534/height/360/theme/standard/thumbnail/yes/direction/backward/" allowfullscreen="" width="100%" height="360"></iframe>
 
 **Source:** [State of Ed Podcast](http://stateofedpodcast.com/?p=346)
 
