@@ -23,7 +23,7 @@ Discussing how technology has improved and decreased productivity:
 
 >There are quite a number of studies I’ve seen that basically state that productivity has not increased in the last 10 or 15 years, whereas technology has exponentially increased. So an increase in technology does not necessarily mean an increase in productivity. As a matter of fact, for some people it’s like, ‘Oh my god, I got a new computer program I have to learn. Geez, my productivity just went down the drain because of trying to understand and how to optimally use the technology.’
 
-As a technology coach I often see how teachers become overwhelmed by new technology tools.  These tools are great but it can be difficult to keep up with the changes to this software and it takes time to learn a new tool.  Some teachers feel guilty when aren’t using a tool to its full potential.  It is important to implement tools gradually so that teachers and students can learn how to use them effectively.
+As a technology coach I often see how teachers become overwhelmed by new technology tools.  These tools are great but it can be difficult to keep up with the changes to this software and it takes time to learn a new tool.  Some teachers feel guilty when they aren’t using a tool to its full potential.  It is important to implement tools gradually so that teachers and students can learn how to use them effectively.
 
 Keeping track of all of the tasks, commitments, and paperwork we need to complete as educators can be overwhelming.  David Allen’s Getting Things Done method provides practical advice for organizing your tasks and ideas so you can move projects forward.
 
