@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learn About How Spotify Changed the Music Industry"
-tags: podcasts music
+tags: podcasts music digital_citizenship
 eye_catch: /blog/assets/img/spotify-4334152_1280.jpg
 ---
 
