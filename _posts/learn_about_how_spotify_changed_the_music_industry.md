@@ -5,7 +5,7 @@ tags: podcasts music
 eye_catch: /blog/assets/img/spotify-4334152_1280.jpg
 ---
 
-Spotify is one of the most popular ways to listen to music.  For $10 a month you can listen to any song on the platform or if you can put up with recurring ads you can listen to music for free.  Spotify has revolutionized the way people listen to music and find new music.  Stephen Dubner from the podcast Freakanomics interviews Spotiy's co-founder David Ek about how Spotify was started as well as the positive and negative impact it has had on the music industry.
+Spotify is one of the most popular ways to listen to music.  For $10 a month you can listen to any song on the platform or if you can put up with recurring ads you can listen to music for free.  Spotify has revolutionized the way people listen to music and find new music.  Stephen Dubner from the podcast [Freakanomics]( http://freakonomics.com/ ) interviews Spotiy's co-founder [Daniel Ek]( https://twitter.com/eldsjal) about how Spotify was started as well as the positive and negative impact it has had on the music industry.
 
 <!--more-->
 
@@ -17,13 +17,14 @@ Dubner also makes sure to note that the record labels have often taken advantage
 
 > Now, before you start feeling too sorry for the record labels, let me say this: in the history of the creative arts, and in the modern history of business generally, it would be hard to find an industry that was sleazier, more exploitative, and more deserving of its comeuppance than the music industry. Through means legal and illegal, from sham contracts and bribes to strong-arming and collusion, the industry had for decades stayed fat by making relatively skinny payments to the people who actually made the music. Their royalty statements were masterpieces of creative accounting. Yes, they did provide venture capital to thousands of musicians with no money, but on the rare occasion when one of those musicians recorded a smash hit, the label made sure to capture most of the profits. 
 
-Many musicians feel that Spotify doesn't fairly compensate artists for their music.  Spotify pays a large portion of it's revenue to record labels.  The problem - artists still aren't seeing those profits.
+Some feel that Spotify doesn't fairly compensate artists for their creative work.  According to the podcast, Spotify pays a large portion of it's revenue to record labels.  
 
 > The labels would also get to keep drawing down 70 percent of Spotify’s revenues, and distributing it to their artists according to their own royalty formulas. 
 
-Spotify impacted on music industry is undeniably.  Whether that has helped or hurt artists is still up for debate.  To learn more about Spotify and how it has changed the music history check out the podcasts episode from Freakanomics.
+The problem - artists still aren't seeing those profits.
+
+The podcast episode provides data about how the music industry has changed in the past 20 years and the impact of streaming services like Spotify.  This is a great way to start a conversation with students on digital citizenship topics about creative work.  Musicians have had to continue adapting to changes in technology including the rise of music piracy in the late 1990s to the emergence of legal streaming options in the early 2010s.   While companies like Spotify have made musicians work more accessible, are these are artists still be unfairly compensated for their work?  If so, who is to be blamed for unfairly compensating artists?
 
 **Source:**  [Freakanomics]( http://freakonomics.com/podcast/spotify/ )
 
 **Photo:** [deepanker70 / Pixabay](https://pixabay.com/images/id-4334152/)
-
