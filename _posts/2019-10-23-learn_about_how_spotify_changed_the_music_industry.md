@@ -5,7 +5,7 @@ tags: podcasts music digital_citizenship
 eye_catch: /blog/assets/img/spotify-4334152_1280.jpg
 ---
 
-Spotify is one of the most popular ways to listen to music.  For $10 a month you can listen to any song on the platform or if you can put up with recurring ads you can listen to music for free.  Spotify has revolutionized the way people listen to music and find new music.  Stephen Dubner from the podcast [Freakanomics]( http://freakonomics.com/ ) interviews Spotiy's co-founder [Daniel Ek]( https://twitter.com/eldsjal) about how Spotify was started as well as the positive and negative impact it has had on the music industry.
+Spotify is one of the most popular ways to listen to music.  For $10 a month you can listen to any song on the platform or if you can put up with recurring ads you can listen to music for free.  Spotify has revolutionized the way people listen to music and find new music.  Stephen Dubner from the podcast [Freakanomics]( http://freakonomics.com/ ) interviews Spotiy's co-founder [Daniel Ek]( https://twitter.com/eldsjal) about how Spotify got started as well as the positive and negative impact it has had on the music industry.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ Some feel that Spotify doesn't fairly compensate artists for their creative work
 
 The problem - artists still aren't seeing those profits.
 
-The podcast episode provides data about how the music industry has changed in the past 20 years and the impact of streaming services like Spotify.  This is a great way to start a conversation with students on digital citizenship topics about creative work.  Musicians have had to continue adapting to changes in technology including the rise of music piracy in the late 1990s to the emergence of legal streaming options in the early 2010s.   While companies like Spotify have made musicians work more accessible, are these are artists still be unfairly compensated for their work?  If so, who is to be blamed for unfairly compensating artists?
+The podcast episode provides data about how the music industry has changed in the past 20 years and the impact of streaming services like Spotify.  This is a great way to start a conversation with students on digital citizenship topics about creative work.  Musicians have had to adapt to changes in technology including the rise of music piracy in the late 1990s and the emergence of legal streaming options in the early 2010s.   While companies like Spotify have made musicians work more accessible, are these are artists still be unfairly compensated for their work?  If so, who is to be blamed for unfairly compensating artists?
 
 **Source:**  [Freakanomics]( http://freakonomics.com/podcast/spotify/ )
 
