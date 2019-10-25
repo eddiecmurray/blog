@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Keep the Leading Zeros in Spreadsheet"
+title: "How to Keep the Leading Zeros in a Spreadsheet"
 tags: excel google google_sheets
 eye_catch: /blog/assets/img/spreadsheet-2127832_960_720.png
 ---
