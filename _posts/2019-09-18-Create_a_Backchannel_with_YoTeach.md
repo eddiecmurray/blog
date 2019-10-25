@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create a Backchannel with YoTeach"
-tags: professional_development web_tools
+tags: professional_development yoteach
 eye_catch: /blog/assets/img/personal-260579_1280.jpg
 ---
 
