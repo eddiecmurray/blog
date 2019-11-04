@@ -15,7 +15,7 @@ I found that VidReader works best with videos that have a closed caption file an
 
 ![vidreader](/blog/assets/img/vidreader-2019-10-25.PNG)
 
-This is a great tool for students to use on longer videos they need to watch multiple times.  Rather than  scrubbing through the video to find the segment they need students can search or click the text in the transcript.  
+This is a great tool for students to use on longer videos they need to watch multiple times.  Rather than  scrubbing through the video to find the segment they need students can search or click the text in the transcript to find the part they need.  
 
 **Source:** [Free Technology for Teachers](https://www.freetech4teachers.com/2019/10/vidreader-create-searchable-transcripts.html)
 
