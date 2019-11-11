@@ -5,7 +5,7 @@ tags: google google_classroom
 eye_catch: /blog/assets/img/presentation-341444_1280.png
 ---
 
-When you begin to use a learning management system  it is important to determine how you will organize materials.  There should be consistency in your class so that students understand where to find information and how to submit work.  Google Classroom is a popular learning management system that integrates with other Google tools to share and collaborate.  Let's explore some of the different ways you can organize materials in Google Classroom.
+When you begin to use a learning management system it is important to determine how you will organize materials.  There should be consistency in your class so that students understand where to find information and how to submit work.  Google Classroom is a popular learning management system that integrates with other Google tools to share and collaborate.  Let's explore some of the different ways you can organize materials in Google Classroom.
 
 <!--more-->
 
