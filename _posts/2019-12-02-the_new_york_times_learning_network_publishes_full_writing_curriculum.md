@@ -12,29 +12,17 @@ When working with classes I'm always looking for current events resources and wr
 If you aren't familiar with the [New York Times Learning Network](https://www.nytimes.com/section/learning) they offer several resources educators can use in their classroom.  This includes:
 
 - [Current Events Lessons](https://www.nytimes.com/column/learning-article-of-the-day) (Daily)
-
 - [Student Opinion Questions](https://www.nytimes.com/column/learning-student-opinion) (Daily)
-
 - [Word of the Day](https://www.nytimes.com/column/learning-word-of-the-day) (Daily)
-
 - [What’s Going On in This Picture?](https://www.nytimes.com/column/learning-whats-going-on-in-this-picture) (Weekly)
-
 - [What’s Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph) (Weekly)
-
 - [Geography Quizzes](https://www.nytimes.com/column/country-of-the-week) (Weekly on Mondays)
-
 - [News Quizzes](http://www.nytimes.com/column/learning-news-quiz) (Weekly on Tuesdays)
-
 - [Film Club](https://www.nytimes.com/column/learning-film-club) (Weekly on Thursdays)
-
 - [Current Events Conversation](https://www.nytimes.com/column/current-events-conversation?module=inline) (Weekly on Thursdays)
-
 - [Picture Prompts](http://www.nytimes.com/column/learning-picture-prompt) (Tuesday-Friday)
-
 - [Teenagers in The Times](https://www.nytimes.com/column/learning-teens-in-the-times) (Monthly)
-
 - [Contests](https://www.nytimes.com/2019/08/21/learning/our-2019-20-student-contest-calendar.html) (Monthly year-round)
-
 - [Our Writing Curriculum](https://www.nytimes.com/2019/08/22/learning/free-writing-curriculum-with-nyt.html) (All year)
 
 The new writing curriculum is a great resources for teachers to find articles to support specific writing instruction.  The first unit focuses on writing a personal narrative.  Here is a description of that unit from the New York Times website:
@@ -44,13 +32,9 @@ The new writing curriculum is a great resources for teachers to find articles to
 Each unit last approximately two months and the New York Times will be publishing additional units as the school year progresses.  At the moment you can access [Unit 1: The Personal Narrative](https://www.nytimes.com/2019/08/22/learning/personal-narrative-writing-unit.html)[ Essay](https://www.nytimes.com/2019/08/22/learning/personal-narrative-writing-unit.html) and [Unit 2: The Review](https://www.nytimes.com/2019/11/06/learning/unit-2-analyzing-arts-criticizing-culture-writing-reviews-with-the-new-york-times.html).  Also, each unit will include:
 
 - Writing prompts to help students try out related skills.
-
 - Daily opportunities to practice writing for an authentic audience.
-
 - Guided practice with mentor texts.
-
 - Teaching ideas and webinars.
-
 - A contest that can act as a culminating project.
 
 To find out more about all of the resources available and the resources available in the visit the the [New York Times Learning Network](https://www.nytimes.com/2019/09/02/learning/current-events-teaching-resources.html) website.
