@@ -17,7 +17,7 @@ To get started create a new graphic in Adobe Spark.  Then select an image or mul
 
 ![meme](/blog/assets/img/adobe_spark_meme.gif)
 
-The easy part of this classroom activity is actually creating the meme.  Students will need to spend some time thinking about the message they want to share in their meme before getting started in Adobe Spark.  After students have created their meme in Adobe Spark they can share it or download the graphic as an image or PDF.  
+The easy part of this classroom activity is actually creating the meme.  Students will need to spend some time thinking about the message they want to share in their meme before getting started in Adobe Spark.  After students have created their meme in Adobe Spark they can share it or download the graphic as an image or PDF using the options at the top of the web page.  
 
 **Source:** [Tech & Learning Blog](Quick Classroom Activity for Making Math Memes with Spark Post)
 
