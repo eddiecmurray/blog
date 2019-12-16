@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tinycards is a Great Free Alternative to Quizlet"
-tags: tinycards quilt vocabulary
+tags: tinycards quizlet vocabulary
 eye_catch: /blog/assets/img/13263483785_fb1b83ed81_h.jpg
 ---
 
@@ -9,7 +9,7 @@ One of my favorite tools to review vocabulary is [Quizlet](https://quizlet.com/)
 
 <!--more-->
 
-[Tinycards](https://tinycards.duolingo.com/) is a free vocabulary or flash card tool made by Duolingo the popular language learning website.  You can create your own vocabulary sets or use sets created by other students.  The vocabulary sets can include images and text.  There is also a text-to-speech feature which works in several languages.
+[Tinycards](https://tinycards.duolingo.com/) is a free vocabulary or flash card tool made by Duolingo the popular language learning website.  You can create your own vocabulary sets or use sets created by others.  Similar to Quizlet, vocabulary sets can include images and text.  There is also a text-to-speech feature which works in several languages.
 
 [Common Sense Education](https://www.commonsense.org/education/app/tinycards-fun-flashcards) provides a good overview of the interactive vocabulary review activties for students:
 
