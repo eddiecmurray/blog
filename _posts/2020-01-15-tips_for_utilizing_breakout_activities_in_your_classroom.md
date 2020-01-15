@@ -34,15 +34,10 @@ There are many [free Breakout EDU resources for you to explore on the Breakout E
 Digital games are another option and are great because they don't require physical boxes with locks.  Below are resources for free digital breakout games you can use:
 
 - [Breakout EDU Digital Sandbox](https://sites.google.com/site/digitalbreakoutjb/sandbox): Database of free teacher made digital breakouts.
-
 - [Tom's Digital Breakouts](https://sites.google.com/view/tomsdigitalbreakouts/home?authuser=0): Several digital breakouts for digital citizenship, math, science, ELA, and social studies.
-
 - [Reimers Resources](https://sites.google.com/tcea.org/prr/breakout-edu/digital-breakouts): Selection of digital breakouts to explore.
-
 - [ES Digital Breakouts](https://sites.google.com/henrico.k12.va.us/digitalbreakout/home): Digital breakouts for grades K-5.
-
 - [Teaching and Learning](https://sites.google.com/view/teachingandlearningmrss/digital-breakouts): Social studies and ELA breakouts.
-
 - [EJD Digital Breakouts](https://sites.google.com/phoenixcsd.net/ejddigitalbreakout): Grades 6-8 socials studies digital breakouts.
 
 Also, teachers are quick to respond with resources and activties on many of the Breakout EDU Facebook groups.  Below are the groups organized by topic:
