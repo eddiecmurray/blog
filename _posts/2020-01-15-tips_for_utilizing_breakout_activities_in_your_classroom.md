@@ -15,7 +15,7 @@ Breakouts are similar to escape rooms.  Instead of trying to solve puzzles to es
 
 > The goal of a Breakout is for groups of students to work together to solve a series of puzzles. Each correct puzzle yields a part of the final code, which opens a locked box. If groups can complete all the puzzles and get the correct code in one hour, they successfully “breakout.”
 
-##Why You Should Try Breakout EDU in Your Classroom
+## Why You Should Try Breakout EDU in Your Classroom
 
 The first time students complete a breakout activity they will often struggle because of lack of communication and not working collaboratively with their peers.  As students complete more breakout activities and solve more puzzles they will understand why it is important to work collabortively in their group to complete the breakout activity.  [Nancy Minicozzi](https://www.twitter.com/coffeenancy) at [CommonSense.org](https://www.commonsense.org/education/articles/build-collaboration-skills-with-breakout-edu) discusses how to help students reflect on their success and failures:
 
@@ -27,7 +27,7 @@ Breakouts aren't just about learning soft skills like communication and collabor
 
 In my district teacher have used breakouts as a culminating activity for students to use what they have learned over the course a unit to solve the puzzles.  We have also used it as a way to introuce students to a topic and assess their prior knowledge.
 
-##Take Advantage of the Free Resources
+## Take Advantage of the Free Resources
 
 There are many [free Breakout EDU resources for you to explore on the Breakout EDU website](https://www.breakoutedu.com/freegames).  Some of these were created and shared by teachers while others are created by the Breakout EDU staff.
 
