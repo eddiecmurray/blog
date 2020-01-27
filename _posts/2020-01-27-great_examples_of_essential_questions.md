@@ -13,7 +13,7 @@ Good questions encourage learners to look at situations differently and often th
 
 > [Essential questions] are not answerable with finality in a single lesson or a brief sentence—and that's the point. Their aim is to stimulate thought, to provoke inquiry, and to spark more questions, including thoughtful student questions, not just pat answers. They are provocative and generative. By tackling such questions, learners are engaged in *uncovering* the depth and richness of a topic that might otherwise be obscured by simply *covering* it.
 
-If you are looking for some examples of quality essential questions [Terry Heick](https://twitter.com/terryheickedu) at [Teach Thought](https://www.teachthought.com/pedagogy/examples-of-essential-questions/) provide some great examples for arts and humanities lessons.  Below are some of the essential questions that stood out to me:
+If you are looking for some examples of quality essential questions [Terry Heick](https://twitter.com/terryheickedu) at [Teach Thought](https://www.teachthought.com/pedagogy/examples-of-essential-questions/) provides some great examples for arts and humanities lessons.  Below are some of the essential questions that stood out to me:
 
 > How can literature serve as a vehicle for social change?
 >
