@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Customize the View of Sharable Google Drive Files"
-tags: google
+tags: google google_drive google_docs google_slides google_sheets
 eye_catch: /blog/assets/img/19527419490_29006e2aed_z.jpg
 ---
 
