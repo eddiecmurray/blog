@@ -9,7 +9,7 @@ This year I have been supporting the New Media and Digital Journalism classes fo
 
 <!--more-->
 
-[Angela Stockman](https://twitter.com/AngelaStockman)) created an [incredible list with links to resources to help students write for authentic audiences](http://www.angelastockman.com/blog/2019/09/28/101-ways-young-writers-might-publish-for-an-authentic-audience/).  Some of my favorite ideas are below:
+[Angela Stockman](https://twitter.com/AngelaStockman) created an [incredible list with links to resources to help students write for authentic audiences](http://www.angelastockman.com/blog/2019/09/28/101-ways-young-writers-might-publish-for-an-authentic-audience/).  Some of my favorite ideas are below:
 
 > 3. **Blogs** are still highly accessible. I’m told that all the cool kids hang out on Medium now. I’m trying, too. Teacher Ashley Bayles explains why this matters [here.](https://medium.com/synapse/why-i-want-my-students-to-write-on-medium-110ce0fc5a1d)
 
@@ -43,6 +43,6 @@ Again, [Adobe Spark](https://spark.adobe.com/) is a great tool for creating web 
 
 These are just some of the excellent examples from Angela Stockman's post about writing for authentic audiences.  Check out her blog post for more great ideas.
 
-**Source:**
+**Source:** [101 Ways Young Writers Might Publish for An Authentic Audience(http://www.angelastockman.com/blog/2019/09/28/101-ways-young-writers-might-publish-for-an-authentic-audience/)
 
-**Photo:** 
+**Photo:** [Mediamodifier / Pixabay](https://pixabay.com/images/id-3033204/)
