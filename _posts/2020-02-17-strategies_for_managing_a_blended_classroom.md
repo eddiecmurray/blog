@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "blended learning classroom management"
+title: "Strategies for Managing a Blended Classroom"
 tags: blended_learning classroom_management
 eye_catch: /blog/assets/img/neonbrand-zFSo6bnZJTw-unsplash.jpg
 ---
