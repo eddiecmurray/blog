@@ -17,7 +17,7 @@ A school in Berkeley California hosted a fundraiser and played the 2019 remake o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFjMJZMalD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-When you buy a movie for personal home use you are not allowed to screen the movie to a larger audience without permission.  School libraries that have movies pay for a license to the movie which allows teachers to borrow it to show in their classroom.  Before showing a movie in your classroom be sure you have the correct permissions to screen the movie.
+When you buy a movie for personal home use you are not allowed to screen the movie to a larger audience without permission.  School libraries that have movies pay for a license which allows teachers to borrow it to show in their classroom.  Before showing a movie in your classroom be sure you have the correct permissions to screen the movie.
 
 **Photo:** [mohamed_hassan / Pixabay](https://pixabay.com/illustrations/copyright-stealing-asset-bag-3197524/)
 
