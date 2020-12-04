@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Weekly Roundup - Breakout Rooms / Tech Troubleshooting"
-tags: breakout_rooms google_meet troubleshooting
+title: "Weekly Roundup - Breakout Rooms / Tech Troubleshooting / Google Docs Citation Tool "
+tags: breakout_rooms google_meet troubleshooting google_docs
 ---
 
 A weekly post about interesting articles, video, podcasts, and content I found over the past week.  This week includes...
@@ -48,4 +48,14 @@ There were other great tips for whole group instruction during a synchronous ses
 
 > - **Enable cookies** - Sounds like something Cookie Monster would say, right? Cookies are files created by sites you visit. They make your online experience easier by storing browsing information on your web browser. You need cookies to log in or sign up for most things. They are usually on by default for most browsers, but you should always check to make sure they are enabled on your device just in case.
 > - **Authorize pop-ups** - If you like using Google Sign in, then you’re a fan of pop-ups. Edpuzzle uses pop-ups when interacting with other websites, like when you sign in with Google. Issues with logging in to a certain platform may be a result of ad blockers that you’ve installed. Make sure to authorize pop-ups by checking the instructions for your specific browser.
+
+## Google Docs Citations Tool
+
+Google has had some pretty powerful citation tools built into the Explore tool for a while.  Recently, Google added a new Citations tool that allows you to add in text citiations and create a bibliogrpahy:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvPWX81VFp8?start=81" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+That's it for this week.  Have a good weekend.
 
