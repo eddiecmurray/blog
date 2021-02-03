@@ -2,14 +2,17 @@
 layout: post
 title: "Best Resources to Find Multimedia for Projects"
 tags: creative_commons video sound_effects images photos best_list
-redirect_to: 
 ---
+
+**Update:** Added Coverr which is a resource for free stock video footage.
 
 When creating digital projects students often need to find images, photos, videos, music, and sound effects to include in their projects.  It is important to teach students how to find free multimedia that are allowed to use in their projects.  The resources listed after the break are great to include in slide decks, photo slide shows, podcats and videos.  While not all of these resources require you to cite the source it is a good practice to provide credit to the author.
 
 <!--more-->
 
 [Bensound](https://www.bensound.com/) includes free music.
+
+**NEW** [Coverr](https://coverr.co/) includes free stock video footage.
 
 [Dig CC Mixer](http://dig.ccmixter.org/) includes free music.  This includes instrumental music for videos, traditional songs, and loops that can be used for video games.
 
