@@ -2,7 +2,7 @@
 layout: post
 title: "Best Resources to Find Multimedia for Projects"
 tags: creative_commons video sound_effects images photos best_list
-redirect_to: 
+redirect_to: /2021/02/10/best_resources_to_find_multimedia_for_projects/
 ---
 
 When creating digital projects students often need to find images, photos, videos, music, and sound effects to include in their projects.  It is important to teach students how to find free multimedia that are allowed to use in their projects.  The resources listed after the break are great to include in slide decks, photo slide shows, podcats and videos.  While not all of these resources require you to cite the source it is a good practice to provide credit to the author.
