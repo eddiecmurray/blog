@@ -2,7 +2,7 @@
 layout: post
 title: "Great Resources for Using Jamboard in the Classroom"
 tags: jamboard graphic_organizer digital_whiteboard protocols
-redirect_to: 
+redirect_to: /2021/02/17/great_resources_for_using_jamboard_in_the_classroom/
 ---
 
 Jamboard is a great digital whiteboard tool that is part of Google's suite of products in Google Drive.  Just like other Google Drive documents like Docs and Slides you can create templates for your students with Jamboard.  Over the past few years Google has been adding additional features including adding pictures, shapes, backgrounds, and text that have made Jamboard a fantastic digital whiteboard tool.  Here are some resources and templates to help you get started with Jamboard.
