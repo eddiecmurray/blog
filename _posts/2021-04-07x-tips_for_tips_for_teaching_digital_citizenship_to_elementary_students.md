@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips for Tips for Teaching Digital Citizenship to Elementary Students"
+title: "Tips for Teaching Digital Citizenship to Elementary Students"
 tags: digital_citizenship
 ---
 
