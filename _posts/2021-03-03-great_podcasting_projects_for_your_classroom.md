@@ -18,9 +18,9 @@ Podcasts are an engaging way to expose students to topics, non-fiction, and curr
 
 ## Quiz Show About a Topic
 
-Recently, I completed [Level 1 of the Soundtrap Certificed Educator course](https://academy.soundtrap.com/p/educator).  One of the suggested projects in the course is for students to create quiz show podcast about a topic.  Students can research a topic and create quiz questions then quiz a partner or a group of students and record it as a podcast.  It reminded me of an audio version [News 12 On the Spot](https://longisland.news12.com/on-the-spot).
+Recently, I completed [Level 1 of the Soundtrap Certified Educator course](https://academy.soundtrap.com/p/educator).  One of the suggested projects in the course is for students to create quiz show podcast about a topic.  Students can research a topic and create quiz questions then quiz a partner or a group of students and record it as a podcast.  It reminded me of an audio version [News 12 On the Spot](https://longisland.news12.com/on-the-spot).
 
-## Use Sound Effects to Engage Listners
+## Use Sound Effects to Engage Listeners
 
 [Taylor Haun](https://twitter.com/taylorhaun) discusses how to [bring a story to life for listeners using samples and sound effects](https://www.edcircuit.com/6-fun-activities-podcasting-classroom/).
 
