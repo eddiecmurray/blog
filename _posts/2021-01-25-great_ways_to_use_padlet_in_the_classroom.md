@@ -18,7 +18,7 @@ I like to call Padlet the swiss army knife of instructional technology tools.  T
 >
 > Padlet Example: [Michael’s Reading List](https://padlet.com/mh_6499/mhcxi8sdzas4)
 >
-> **Character Studies:** Working with texts that include a cast of characters? Introduce them all with images and text on a padlet.
+> **Character Studies:** Working with texts that include a cast of characters? Introduce them all with images and text on a Padlet.
 >
 > Padlet Example: [Greek Gods](https://padlet.com/pkrason/GreekMythology)
 >

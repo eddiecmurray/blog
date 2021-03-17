@@ -4,7 +4,7 @@ title: "Great Podcasting Projects for Your Classroom"
 tags: podcasts project_based_learning
 ---
 
-Podcasts are an engaging way to expose students to topics, non-fiction, and current events.  State standards often focus on imporving student listening skills and podcasts are an effective way to meet these standards.  If you are looking for podcasts to use in your classroom you should check out the education focused podcast website [Listenwise](https://www.eddiecmurray.com/blog/2018/12/14/listenwise_curates_educational_podcasts_for_teachers/), [NPR's Hidden Brain Podcast](https://www.eddiecmurray.com/blog/2019/06/17/Podcast_Lesson_Plans_from_NPRs_Hidden_Brain_Podcast/), and [Radiolab for Kids](https://www.eddiecmurray.com/blog/2020/10/06/radiolab_has_a_new_podcast_called_radiolab_for_kids/).  Once students become familiar with different types of podcasts they can begin to create their own.  Here are some podcasting project ideas you can use in the classroom.
+Podcasts are an engaging way to expose students to topics, non-fiction, and current events.  State standards often focus on improving student listening skills and podcasts are an effective way to meet these standards.  If you are looking for podcasts to use in your classroom you should check out the education focused podcast website [Listenwise](https://www.eddiecmurray.com/blog/2018/12/14/listenwise_curates_educational_podcasts_for_teachers/), [NPR's Hidden Brain Podcast](https://www.eddiecmurray.com/blog/2019/06/17/Podcast_Lesson_Plans_from_NPRs_Hidden_Brain_Podcast/), and [Radiolab for Kids](https://www.eddiecmurray.com/blog/2020/10/06/radiolab_has_a_new_podcast_called_radiolab_for_kids/).  Once students become familiar with different types of podcasts they can begin to create their own.  Here are some podcasting project ideas you can use in the classroom.
 
 <!--more-->
 
@@ -35,4 +35,3 @@ Recently, I completed [Level 1 of the Soundtrap Certified Educator course](https
 > 7. Share your story via podcast or social media!
 >
 > This project can be as simple as just adding one musical loop for the whole story. For older students, stories can include music that changes with the arc of the story, sound effects that accentuate story elements, like a creaky door sound for a haunted house story. The sky’s the limit, this is the perfect opportunity to let the students’ creativity develop.
-

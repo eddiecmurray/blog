@@ -9,7 +9,7 @@ Good questions encourage learners to look at situations differently and often th
 
 <!--more-->
 
-[Jay McTighe](https://twitter.com/jaymctighe) and [Grant Wiggins](https://twitter.com/grantwiggins) provide an excellent deffinition of [what makes a question essential](http://www.ascd.org/publications/books/109004/chapters/What-Makes-a-Question-Essential%A2.aspx):
+[Jay McTighe](https://twitter.com/jaymctighe) and [Grant Wiggins](https://twitter.com/grantwiggins) provide an excellent definition of [what makes a question essential](http://www.ascd.org/publications/books/109004/chapters/What-Makes-a-Question-Essential%A2.aspx):
 
 > [Essential questions] are not answerable with finality in a single lesson or a brief sentence—and that's the point. Their aim is to stimulate thought, to provoke inquiry, and to spark more questions, including thoughtful student questions, not just pat answers. They are provocative and generative. By tackling such questions, learners are engaged in *uncovering* the depth and richness of a topic that might otherwise be obscured by simply *covering* it.
 

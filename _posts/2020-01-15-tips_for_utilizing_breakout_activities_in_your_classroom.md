@@ -5,7 +5,7 @@ tags: breakout_edu collaboration math social_studies science library ela english
 eye_catch: /blog/assets/img/safe-913452_1280.jpg
 ---
 
-I learned about Breakout EDU from the middle school librarian ([Chris Cassidy](https://twitter.com/chcassidy)) in my district.  She has been creating and adapting Breakout EDU lessons over the past few years for middle school classes on topics in English language arts, social studies, and math.  We have also worked to demostrate how to use Breakout EDU with other teachers in the middle school as well as elementary schools in our district.  Here are some tips to help you get started with using Breakout EDU activities in your classroom.
+I learned about Breakout EDU from the middle school librarian ([Chris Cassidy](https://twitter.com/chcassidy)) in my district.  She has been creating and adapting Breakout EDU lessons over the past few years for middle school classes on topics in English language arts, social studies, and math.  We have also worked to demonstrate how to use Breakout EDU with other teachers in the middle school as well as elementary schools in our district.  Here are some tips to help you get started with using Breakout EDU activities in your classroom.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Breakouts are similar to escape rooms.  Instead of trying to solve puzzles to es
 
 ## Why You Should Try Breakout EDU in Your Classroom
 
-The first time students complete a breakout activity they will often struggle because of lack of communication and not working collaboratively with their peers.  As students complete more breakout activities and solve more puzzles they will understand why it is important to work collabortively in their group to complete the breakout activity.  [Nancy Minicozzi](https://www.twitter.com/coffeenancy) at [CommonSense.org](https://www.commonsense.org/education/articles/build-collaboration-skills-with-breakout-edu) discusses how to help students reflect on their success and failures:
+The first time students complete a breakout activity they will often struggle because of lack of communication and not working collaboratively with their peers.  As students complete more breakout activities and solve more puzzles they will understand why it is important to work collaboratively in their group to complete the breakout activity.  [Nancy Minicozzi](https://www.twitter.com/coffeenancy) at [CommonSense.org](https://www.commonsense.org/education/articles/build-collaboration-skills-with-breakout-edu) discusses how to help students reflect on their success and failures:
 
 > Students playing Breakout EDU games learn quickly that it's much easier to solve puzzles and open locks when working together. After every game, the teacher debriefs the students and asks them what they thought went well and what they could improve. Invariably, the students who solved puzzles and opened their locks talk about how well they worked as a team, how they listened to everyone's ideas, and how they took turns. The less successful teams often talk about fighting, arguing, and not listening to each other. The more games they play, the better they get at communicating and collaborating.
 
@@ -25,7 +25,7 @@ Breakouts aren't just about learning soft skills like communication and collabor
 
 > Each challenge can be specifically designed to focus on the skills and content you want reinforced. Want to focus on multiplication skills, nonfiction reading, lab equipment review, or the solar system? The beauty of the breakout experience is that it can be custom made to fit your desired focus.
 
-In my district teacher have used breakouts as a culminating activity for students to use what they have learned over the course a unit to solve the puzzles.  We have also used it as a way to introuce students to a topic and assess their prior knowledge.
+In my district teacher have used breakouts as a culminating activity for students to use what they have learned over the course a unit to solve the puzzles.  We have also used it as a way to introduce students to a topic and assess their prior knowledge.
 
 ## Take Advantage of the Free Resources
 
@@ -40,7 +40,7 @@ Digital games are another option and are great because they don't require physic
 - [Teaching and Learning](https://sites.google.com/view/teachingandlearningmrss/digital-breakouts): Social studies and ELA breakouts.
 - [EJD Digital Breakouts](https://sites.google.com/phoenixcsd.net/ejddigitalbreakout): Grades 6-8 socials studies digital breakouts.
 
-Also, teachers are quick to respond with resources and activties on many of the Breakout EDU Facebook groups.  Below are the groups organized by topic:
+Also, teachers are quick to respond with resources and activities on many of the Breakout EDU Facebook groups.  Below are the groups organized by topic:
 
 - [General Breakout EDU](https://www.facebook.com/groups/breakoutedu/)
 - [Elementary](https://www.facebook.com/groups/breakouteduelem/)
@@ -59,13 +59,13 @@ When I first started using breakouts they typically took an entire period or abo
 
 > Sometimes teachers don't have the time to sit down and plan or set up an entire breakout that's going to take a majority of the class period (if not a couple days depending on time and post-breakout discussion.).  And sometimes it's just plain over-whelming.  Too much to think about during the precious few minutes of plan time.
 
-What I have started to do is have teachers use these ativities as a "Do Now" or "Exit Ticket".  These shorter activities are easier to manage and don't take an entire period to facilitate.
+What I have started to do is have teachers use these activities as a "Do Now" or "Exit Ticket".  These shorter activities are easier to manage and don't take an entire period to facilitate.
 
-Another strategy is to use these [shorter breakout activties in the station rotation blended learning model](https://www.kqed.org/mindshift/52723/building-teamwork-and-perseverance-in-early-elementary-students-with-breakouts).  These shorter self contained activities allow teachers to include breakouts in their instruction without devoting an entire period to the activity.  When using breakout activities as a station be sure to include an extra station in case students need more time.  This will allow students to continue without preventing other students from continuing.
+Another strategy is to use these [shorter breakout activities in the station rotation blended learning model](https://www.kqed.org/mindshift/52723/building-teamwork-and-perseverance-in-early-elementary-students-with-breakouts).  These shorter self contained activities allow teachers to include breakouts in their instruction without devoting an entire period to the activity.  When using breakout activities as a station be sure to include an extra station in case students need more time.  This will allow students to continue without preventing other students from continuing.
 
 ## Create Your Own Physical Kit
 
-Many teachers like the physical Breakout EDU kits because students move around the classroom during the activity which helps to facilitate kinesthetic learning.  The physical kits are great but it can be expensive to purchase these kits for your classroom.  Many teachers have decided to create their own kits rather than buy the offical Breakout EDU physical boxes.  [Jennifer Reaves](https://twitter.com/jzwvu07) a the [Ed Tech Team](https://www.edtechteam.com/blog/2017/08/break-out-of-classroom/) discusses how she created her own breakout kits:
+Many teachers like the physical Breakout EDU kits because students move around the classroom during the activity which helps to facilitate kinesthetic learning.  The physical kits are great but it can be expensive to purchase these kits for your classroom.  Many teachers have decided to create their own kits rather than buy the official Breakout EDU physical boxes.  [Jennifer Reaves](https://twitter.com/jzwvu07) a the [Ed Tech Team](https://www.edtechteam.com/blog/2017/08/break-out-of-classroom/) discusses how she created her own breakout kits:
 
 > I went to my local Dollar Tree and purchased a locking toolbox, a red bike lock, a green bike lock and a keyed lock. Since it was the end of the year I also snagged a box of cookies to put inside for my kiddos to share once they unlocked the box. Those cookies never tasted so sweet! Total cost $5.
 
@@ -81,6 +81,6 @@ If you are interested in creating your own breakout activities there are plenty 
 
 ------
 
-Breakouts are a great way to teach your students soft skills while reinforcing the key ideas from your lessons and units.  There are many free online resources to help you get started facilitating these activties as well as creating your own breakout activities.
+Breakouts are a great way to teach your students soft skills while reinforcing the key ideas from your lessons and units.  There are many free online resources to help you get started facilitating these activities as well as creating your own breakout activities.
 
 **Photo:** [Pixabay](https://pixabay.com/images/id-913452/)

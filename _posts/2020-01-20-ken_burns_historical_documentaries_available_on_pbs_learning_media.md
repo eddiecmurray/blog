@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Burns Historical Documentaties Available on PBS Learning Media 
+title: Ken Burns Historical Documentaries Available on PBS Learning Media 
 tags: oer open_educational_resources video social_studies ela English_language_arts
 eye_catch: /blog/assets/img/photography-3934299_1280.jpg
 ---

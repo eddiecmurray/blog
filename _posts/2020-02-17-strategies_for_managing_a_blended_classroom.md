@@ -21,7 +21,7 @@ An important pat of setting up a blended learning classroom is developing the sy
 
 > Do not be tempted to rush through the implementation of these routines at the beginning of the year. Invest the time in establishing procedures now so that the rest of the year will run smoothly. And it is essential to review the procedures frequently to keep it fresh.
 
-Teachers typically share and recieve content from students using a learning management system (LMS).  When you start to use a leanring management system it is important to demonstrate and practice how to access content and submit assignments with students.  I typically start with a low stakes assignment so that students can focus on learning how to use the LMS rather than trying to learn the LMS as well as new content at the same time.  This helps to not overwhelm students with too many new things at once.
+Teachers typically share and receive content from students using a learning management system (LMS).  When you start to use a learning management system it is important to demonstrate and practice how to access content and submit assignments with students.  I typically start with a low stakes assignment so that students can focus on learning how to use the LMS rather than trying to learn the LMS as well as new content at the same time.  This helps to not overwhelm students with too many new things at once.
 
 Consistency is important as well.  Again, Julie Daniel Davis discusses [why teachers should use the same vocabulary and icons during lessons](http://ditchthattextbook.com/10-keys-to-success-in-blended-learning/):
 
@@ -29,15 +29,15 @@ Consistency is important as well.  Again, Julie Daniel Davis discusses [why teac
 >consistent. For instance, we have the following icons hanging from the ceilings or on desk
 >groupings, as well as placed as a guide for where each student is to start each day.
 
-This is important while explaining what students should be doing.  Include the same computer icon on worksheets that will require students to use a computer.  On your interactive board use icons for your Do Now activity that informs students this is an offline or online Do Now.  Also, use a consistent vocabuilary for tasks.  For instance, don't switch between "sign in" and "log in" or "shutdown" and "log off".  Pick one and stay consistent.  This is particularly important in ENL classrooms. Consistentcy with written and oral directions will help your students better understand the task.
+This is important while explaining what students should be doing.  Include the same computer icon on worksheets that will require students to use a computer.  On your interactive board use icons for your Do Now activity that informs students this is an offline or online Do Now.  Also, use a consistent vocabulary for tasks.  For instance, don't switch between "sign in" and "log in" or "shutdown" and "log off".  Pick one and stay consistent.  This is particularly important in ENL classrooms. Consistently with written and oral directions will help your students better understand the task.
 
 ## Purposeful Use of Technology
 
-The use of technology should be purposeful and allow students to do something they weren't able to do before.  [Sarah Rich](https://twitter.com/edtechSAE) also discusses [why it is improtant to balance the use of technology in the classroom](https://tenmarks.typepad.com/tenmarks/2016/08/7-steps-to-set-up-your-classroom-for-blended-learning.html):
+The use of technology should be purposeful and allow students to do something they weren't able to do before.  [Sarah Rich](https://twitter.com/edtechSAE) also discusses [why it is important to balance the use of technology in the classroom](https://tenmarks.typepad.com/tenmarks/2016/08/7-steps-to-set-up-your-classroom-for-blended-learning.html):
 
 > [H]ands on activities are essential to allow students to learn using different modalities and to support all learners. I try to incorporate a wide variety of activities to allow for balance even in a Blended Learning Classroom.
 
-Not every learning activity needs to include technology.  When the students in my coding class plan a choose your own adeventure story they create the story map using paper.  They could do this digitally but it would require students to learn a new tool that we won't use often to create the story map.  That is not a good use of instructional time.
+Not every learning activity needs to include technology.  When the students in my coding class plan a choose your own adventure story they create the story map using paper.  They could do this digitally but it would require students to learn a new tool that we won't use often to create the story map.  That is not a good use of instructional time.
 
 Also, you may not need a computer for each student to facilitate a blended learning classroom because not every student will need a device at each station or for each activity.  [Anita Townsend](https://twitter.com/anitatownsend0) discusses this [in a post on Teach Magazine](https://teachmag.com/archives/3574):
 
@@ -49,20 +49,20 @@ If you are using the station rotation model for blended learning you will have c
 
 ## Planning Activities
 
-As you create each of the learning activties there should be clear expectations for students.   [Anita Townsend](https://twitter.com/anitatownsend0) explains the [importance of rubrics for assignments](https://teachmag.com/archives/3574):
+As you create each of the learning activities there should be clear expectations for students.   [Anita Townsend](https://twitter.com/anitatownsend0) explains the [importance of rubrics for assignments](https://teachmag.com/archives/3574):
 
 >Provide students with a rubric or organizer which clearly defines project expectations[.]
 
-Since students will be working more independently during classroom activties you need to include clear expectations for assignments and anticipate areas where students will have trouble with the project.  When I plan an activity I often complete the ativitiy myself to make sure my directions are clear and all of the instructional technology tools in the lesson work properly.
+Since students will be working more independently during classroom activities you need to include clear expectations for assignments and anticipate areas where students will have trouble with the project.  When I plan an activity I often complete the activity myself to make sure my directions are clear and all of the instructional technology tools in the lesson work properly.
 
-Anita Twonsend goes on to [explain how to utizle student expertise in the classroom](https://teachmag.com/archives/3574):
+Anita Twonsend goes on to [explain how to utilize student expertise in the classroom](https://teachmag.com/archives/3574):
 
 > Take full advantage of student expertise. Students often know more than teachers do about a technology, and teaching someone else what they know is a great way to reinforce their own learning and foster a supportive classroom community.
 
-In larger classes it can be difficult to meet with each student or answer every student question.  Students should learn to first ask a partner or person in their group before asking the teacher for help.  Also, on the activity worksheet or instructions you can include the names of students who have expertise with the instructional technology tool.  Students can work with that student first before asking the teacher for help.  This helps to build student leaders in your classroom and give students more responsibilty in the classroom.
+In larger classes it can be difficult to meet with each student or answer every student question.  Students should learn to first ask a partner or person in their group before asking the teacher for help.  Also, on the activity worksheet or instructions you can include the names of students who have expertise with the instructional technology tool.  Students can work with that student first before asking the teacher for help.  This helps to build student leaders in your classroom and give students more responsibility in the classroom.
 
 ------
 
-Blended learning allows students to take more accountability for their work with indpendent and group activties that are online and offline.  To ensure these multiple activities run smoothly teachers need to think about how they will organize the space and materials in their classroom.
+Blended learning allows students to take more accountability for their work with independent and group activities that are online and offline.  To ensure these multiple activities run smoothly teachers need to think about how they will organize the space and materials in their classroom.
 
 **Photo:** [NeONBRAND / Unsplash](https://unsplash.com/photos/zFSo6bnZJTw)

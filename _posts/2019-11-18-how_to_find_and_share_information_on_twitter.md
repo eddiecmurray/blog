@@ -5,7 +5,7 @@ tags: twitter nuzzel buffer productivity
 eye_catch: /blog/assets/img/accounts-blur-button-267350.jpg
 ---
 
-Only recently have I been able to really wrap my head around how to use Twitter to curate resources.  The constant stream of information can be overwhelming.  There are a few stragegies I use to organize my followers, search for information, and share content with my followers.  
+Only recently have I been able to really wrap my head around how to use Twitter to curate resources.  The constant stream of information can be overwhelming.  There are a few strategies I use to organize my followers, search for information, and share content with my followers.  
 
 <!--more-->
 
@@ -21,7 +21,7 @@ My go to resource for finding information has always been RSS feeds in [Feedly](
 
 # Organize and Scheduling Tweets
 
-I tend to check Twitter every couple of days rather than multiple times a day.  I may also find content at odd hours or find a couple of things in a row that I want to post.  Rather than posting everying at once, I use an app called [Buffer](https://buffer.com/) to atomatically schedule my posts or retweets for me.  This helps to not flood feeds of the people who follow me with several posts in a row.  
+I tend to check Twitter every couple of days rather than multiple times a day.  I may also find content at odd hours or find a couple of things in a row that I want to post.  Rather than posting everything at once, I use an app called [Buffer](https://buffer.com/) to automatically schedule my posts or retweets for me.  This helps to not flood feeds of the people who follow me with several posts in a row.  
 
 With Buffer you can also schedule posts at a certain time.  I find this helpful for Twitter chats.  When the moderators posts the questions in advance I can scheduled my responses in Buffer so that they are sent out when the Twitter chat begins.
 

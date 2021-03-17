@@ -5,7 +5,7 @@ tags: copyright digital_citizenship
 eye_catch: /blog/assets/img/copyright-3197524_1280.jpg
 ---
 
-I've discussed several situations where teachers may be breaking copright law in their classroom.  Whether that is making copies of handouts that are copyrighted to or using Netflix in your classroom, teachers need to be careful to ensure they are not voilating copyright law.  Recently, a school district was forced to pay a fine when they showed a movie during a school district event.
+I've discussed several situations where teachers may be breaking copyright law in their classroom.  Whether that is making copies of handouts that are copyrighted to or using Netflix in your classroom, teachers need to be careful to ensure they are not violating copyright law.  Recently, a school district was forced to pay a fine when they showed a movie during a school district event.
 
 <!--more-->
 

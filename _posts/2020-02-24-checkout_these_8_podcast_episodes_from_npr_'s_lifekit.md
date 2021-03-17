@@ -5,11 +5,11 @@ tags: podcast professional_development
 eye_catch: /blog/assets/img/audio-device-macro-55800.jpg
 ---
 
-I have been listening to podcats for years.  I often listen to podcasts when I drive, work out at the gym, and cook dinner.  They are a great way to stay updated on current events, listen to stories, and learn about something when you don't have time to read on a regular basis.  One of the podcasts I have been listening to over the past few months is NPR's Lifekit.  
+I have been listening to podcast for years.  I often listen to podcasts when I drive, work out at the gym, and cook dinner.  They are a great way to stay updated on current events, listen to stories, and learn about something when you don't have time to read on a regular basis.  One of the podcasts I have been listening to over the past few months is NPR's Lifekit.  
 
 <!--more-->
 
-[NPR's Lifekit](https://www.npr.org/podcasts/510338/all-guides) produces short 20-30 minute episodes on a wide range of topics including healthy lifestyles, mental health issues, and talking to children about difficult topics.  The hosts speak with experts and provide key takeways or next steps on how to take action in your own life.  Below are some of my favorite episodes over the past year.  You may find some helpful for introducing topics to students (always listen to the episode first before using in the classroom) or for your own professional development.
+[NPR's Lifekit](https://www.npr.org/podcasts/510338/all-guides) produces short 20-30 minute episodes on a wide range of topics including healthy lifestyles, mental health issues, and talking to children about difficult topics.  The hosts speak with experts and provide key takeaways or next steps on how to take action in your own life.  Below are some of my favorite episodes over the past year.  You may find some helpful for introducing topics to students (always listen to the episode first before using in the classroom) or for your own professional development.
 
 <iframe src="https://www.npr.org/player/embed/802955134/803211077" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 

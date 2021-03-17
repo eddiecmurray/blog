@@ -13,11 +13,11 @@ This year I have been supporting the New Media and Digital Journalism classes fo
 
 > 3. **Blogs** are still highly accessible. I’m told that all the cool kids hang out on Medium now. I’m trying, too. Teacher Ashley Bayles explains why this matters [here.](https://medium.com/synapse/why-i-want-my-students-to-write-on-medium-110ce0fc5a1d)
 
-Blogs are a great way to have students document their learning.  [Edublogs](https://edublogs.org/) is a great tool that provides features to sort by tags, author, and categories.  On the class blog we use tags for topics (ie digital citizenship, bias, propanda, digital well being, etc) and the categories to sort classes / school years.
+Blogs are a great way to have students document their learning.  [Edublogs](https://edublogs.org/) is a great tool that provides features to sort by tags, author, and categories.  On the class blog we use tags for topics (ie digital citizenship, bias, propaganda, digital well being, etc) and the categories to sort classes / school years.
 
 > 8. **Memes** are funny, and that’s why they go viral. Kids love making and sharing them, too. [Sharon Serano shares good ideas and perspective here.](https://www.iste.org/explore/In-the-classroom/5-ways-to-use-memes-with-students) Mashable offers [six tools here.](https://mashable.com/2013/09/25/making-memes/)
 
-[Adobe Spark](https://spark.adobe.com/)'s graphic tool is an easy way to create memes with images and texts.  Memes can be incorproated into blog posts as well.
+[Adobe Spark](https://spark.adobe.com/)'s graphic tool is an easy way to create memes with images and texts.  Memes can be incorporated into blog posts as well.
 
 > 18. **Comics and Cartoons** can be used to express information, arguments, and stories. And there are a bunch of digital tools that enable digital (and beautiful) design and social sharing. [Here are a bunch of tools and apps.](https://www.techlearning.com/tl-advisor-blog/11-comic-creation-web-tools-and-apps)
 
@@ -25,7 +25,7 @@ Blogs are a great way to have students document their learning.  [Edublogs](http
 
 > 20. **Podcasting** is hot, and kids enjoy making them. [Anchor](https://anchor.fm/) is a great place to begin.
 
-Podcasting has exploded in populairty over the past few years.  There are great episodes from NPR on [Listenwise you can use an examples](https://www.eddiecmurray.com/blog/2018/12/14/listenwise_curates_educational_podcasts_for_teachers/).  Tools like [Soundtrap](https://www.soundtrap.com/) (paid) and [BandLab](https://www.bandlab.com/) (free) make it easy for students to create podcasts.
+Podcasting has exploded in popularity over the past few years.  There are great episodes from NPR on [Listenwise you can use an examples](https://www.eddiecmurray.com/blog/2018/12/14/listenwise_curates_educational_podcasts_for_teachers/).  Tools like [Soundtrap](https://www.soundtrap.com/) (paid) and [BandLab](https://www.bandlab.com/) (free) make it easy for students to create podcasts.
 
 > 25. **Book Trailers** are a blast to create, and writers could make them for their own work or for other books they’ve read. [Adobe Spark is great here, too.](https://spark.adobe.com/)
 

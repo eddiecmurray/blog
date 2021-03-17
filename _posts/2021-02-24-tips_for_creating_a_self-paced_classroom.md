@@ -28,4 +28,4 @@ To increase student accountability teachers can use trackers to let students kno
 
 > In addition to indicating the lesson each student is on, public pacing trackers often highlight the expected pace as well as “lesson all-stars” who have produced exemplary work. It is important to note that public trackers NEVER display grades and given the nature of self-pacing, students have ample time and opportunity to catch up. Also, if lesson classifications are used effectively, the tracker should reflect effort, not ability level.
 
-The self-paced classroom is a great way to provide students with more flexibiloty to self-direct their leanring.  It also provides teachers with more time to design learning activities that meet the needs of all learners. 
+The self-paced classroom is a great way to provide students with more flexibility to self-direct their learning.  It also provides teachers with more time to design learning activities that meet the needs of all learners. 

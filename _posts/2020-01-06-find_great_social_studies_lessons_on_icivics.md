@@ -5,7 +5,7 @@ tags: open_educational_resources social_studies
 eye_catch: /blog/assets/img/history-4171794_1280.jpg
 ---
 
-Fun fact: while I always wanted to work in education I thought I would be a social studies teacher instead of an educational technology specialist.  To make myself more marketable I become certified as an educational technology specialist.  Since there have been more opportunities for positions as an educational technology specialists that is where I have worked.  I will always have a soft spot for social studies content and a great resource for finding supplemental resoures as well as full lessons is iCivics.
+Fun fact: while I always wanted to work in education I thought I would be a social studies teacher instead of an educational technology specialist.  To make myself more marketable I become certified as an educational technology specialist.  Since there have been more opportunities for positions as an educational technology specialists that is where I have worked.  I will always have a soft spot for social studies content and a great resource for finding supplemental resources as well as full lessons is iCivics.
 
 <!--more-->
 

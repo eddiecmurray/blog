@@ -51,7 +51,7 @@ There were other great tips for whole group instruction during a synchronous ses
 
 ## Google Docs Citations Tool
 
-Google has had some pretty powerful citation tools built into the Explore tool for a while.  Recently, Google added a new Citations tool that allows you to add in text citiations and create a bibliogrpahy:
+Google has had some pretty powerful citation tools built into the Explore tool for a while.  Recently, Google added a new Citations tool that allows you to add in text citations and create a bibliography:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xvPWX81VFp8?start=81" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

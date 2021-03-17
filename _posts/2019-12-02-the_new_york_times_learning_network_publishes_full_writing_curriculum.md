@@ -5,7 +5,7 @@ tags: open_educational_resources ela social_studies
 eye_catch: /blog/assets/img/5970392182_14117ad14e_k.jpg
 ---
 
-When working with classes I'm always looking for current events resources and writing prompts that connect what we are learining to our everyday lives.  These resources are great at the beginning of a lesson to demonstrate how the topic is relevant, to help students generate ideas about a topic, and to look at issues through a new lens.  One of the resources I use for these activities is the [New York Times Learning Network](https://www.nytimes.com/section/learning).  This year, the New York Times Learning Network has expanded their resources to include a 7 unit writing curriculum.
+When working with classes I'm always looking for current events resources and writing prompts that connect what we are learning to our everyday lives.  These resources are great at the beginning of a lesson to demonstrate how the topic is relevant, to help students generate ideas about a topic, and to look at issues through a new lens.  One of the resources I use for these activities is the [New York Times Learning Network](https://www.nytimes.com/section/learning).  This year, the New York Times Learning Network has expanded their resources to include a 7 unit writing curriculum.
 
 <!--more-->
 
