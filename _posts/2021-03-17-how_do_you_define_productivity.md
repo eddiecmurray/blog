@@ -10,6 +10,8 @@ tags: productivity
 
 Baily goes on to discuss how technology, mindfulness, and habits impact our productivity.
 
+<!--more-->
+
 ## Defining Productivity
 
 How many times have you felt guilty because you slept in, got lost in a new book/TV Show/podcast, or simply had a lazy Sunday? It is important to look at how we intended to spend our time to determine if we were productive. Sometimes that day of relaxation enables us to be more productive in a few days because we are well rested and not burned out. Baily provides a great example of productivity:
