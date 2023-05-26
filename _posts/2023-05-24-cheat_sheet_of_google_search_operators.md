@@ -6,8 +6,6 @@ tags: search productivity
 
 [Yuvraj Chandra](https://twitter.com/YuvrajChandra21) at [MakeUseOf](https://www.makeuseof.com/) shared a [cheat sheet of Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf) that can be used to narrow down search results.  It includes commands to help users filter results by site, timelines, and context.  The cheat sheet is available as a downloadable PDF from the webpage.
 
-<!--more-->
-
 I use the following search operators on a daily basis:
 
 | Purpose                                                                               | Syntax                   | Example                   |
