@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use Memes in a Healthy Way"
-tags: meme
+tags: memes
 ---
 
 [Life Noggin](https://www.youtube.com/user/lifenoggin) provides an overview of memes that can be used with students.  The video highlights the benefits of creating and sharing memes as a way to:
