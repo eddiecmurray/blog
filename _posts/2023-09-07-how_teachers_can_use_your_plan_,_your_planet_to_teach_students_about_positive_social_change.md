@@ -6,8 +6,6 @@ tags: interactive sustainability
 
 [Your Plan, Your Planet](https://yourplanyourplanet.sustainability.google/) is a free, interactive, online tool that can be used to help students learn about sustainability and the kinds of changes they can make to help ensure a healthy planet today and tomorrow. The tool focuses on how we consume food, water, energy, and stuff.
 
-<!--more-->
-
 Here are some ways that teachers can use Your Plan, Your Planet in the classroom:
 - Use it as a starting point for a discussion about sustainability. The tool can help students to understand the impact of their everyday choices on the environment. Teachers can then lead a discussion about how students can make changes to their lifestyle to reduce their impact.
 - Use it to assign individual or group projects. Students can use the tool to calculate their environmental impact and then develop a plan to reduce it. Teachers can then assign students to work together on projects to implement their plans.
