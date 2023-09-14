@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Teachers Can Use Your Plan, Your Planet to Teach Students About Positive Social Change"
+title: "How Teachers Can Use 'Your Plan, Your Planet' to Teach Students About Positive Social Change"
 tags: interactive sustainability
 ---
 
