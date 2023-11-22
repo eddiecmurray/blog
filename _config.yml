@@ -21,7 +21,7 @@ icons:
   email:
   github:
   bitbucket:
-  twitter: eddiecmurray
+  twitter: 
   facebook:
   google_plus:
   tumblr:
@@ -74,7 +74,7 @@ paginate_path: page/:num
 # Social.
 #
 share_buttons:
-  twitter: true
+  twitter: false
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
