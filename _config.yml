@@ -91,6 +91,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-tagging-related_posts
 
 #
 # Styles: see "_sass/base/_variables.scss"
