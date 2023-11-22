@@ -4,7 +4,7 @@
 # url: http://localhost:4000
 # baseurl: ""
 url: https://eddiecmurray.github.io
-baseurl: 
+baseurl: /blog
 title: Eddie Murray
 description: Educational technology specialist, running enthusiast, technology geek.
 avatar: /assets/img/profile_thumbnail.jpg
