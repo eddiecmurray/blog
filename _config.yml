@@ -84,6 +84,15 @@ ogp:
     app_id: # facebook application id
 
 #
+# Google Analytics
+#
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-HX1XRS2TZ1          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+
+#
 # Plugins.
 #
 plugins:
@@ -92,6 +101,7 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-tagging-related_posts
+  - jekyll-analytics
 
 #
 # Styles: see "_sass/base/_variables.scss"
