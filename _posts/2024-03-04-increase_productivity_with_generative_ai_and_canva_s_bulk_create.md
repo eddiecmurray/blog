@@ -8,7 +8,7 @@ tags: canva artificial_intelligence productivity
 
 <iframe src="https://www.canva.com/design/DAF6VsgVh8o/OzMxCMNqNGPHz8k6m1s7eg/view?embed" width="800" height="450" allowfullscreen></iframe>
 
-If you’re not familiar, Canva’s Bulk Create is a powerful tool that allows users to upload a CSV file containing data like text or images to automatically generate multiple design variations at once.
+If you’re not familiar, [Canva Bulk Create](https://www.canva.com/help/bulk-create/) is a powerful tool that allows users to upload a CSV file containing data like text or images to automatically generate multiple design variations at once.
 
 Teachers can use generative AI tools to create different types of content in a CSV format, including instructional content for classroom posters, tier 2 vocabulary from an article, or a list of questions about a topic. Then, teachers can import this content into Canva’s Bulk Create to design variations using the content.
 
